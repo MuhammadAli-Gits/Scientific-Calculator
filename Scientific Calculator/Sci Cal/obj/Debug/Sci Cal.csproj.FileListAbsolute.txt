@@ -1,0 +1,57 @@
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe.config
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\bin\Debug\Sci Cal.pdb
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csprojResolveAssemblyReference.cache
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Form1.resources
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Properties.Resources.resources
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csproj.GenerateResource.Cache
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\obj\Debug\Sci Cal.exe
+C:\Users\ALI\Desktop\Loop Examples\Sci Cal\Sci Cal\obj\Debug\Sci Cal.pdb
+D:\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe.config
+D:\Sci Cal\Sci Cal\obj\Debug\Sci Cal.exe
+D:\Sci Cal\Sci Cal\obj\Debug\Sci Cal.pdb
+D:\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe
+D:\Sci Cal\Sci Cal\bin\Debug\Sci Cal.pdb
+D:\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Properties.Resources.resources
+D:\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csproj.GenerateResource.Cache
+D:\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Calculator.resources
+D:\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csprojResolveAssemblyReference.cache
+D:\PF\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe.config
+D:\PF\Sci Cal\Sci Cal\obj\Debug\Sci Cal.exe
+D:\PF\Sci Cal\Sci Cal\obj\Debug\Sci Cal.pdb
+D:\PF\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe
+D:\PF\Sci Cal\Sci Cal\bin\Debug\Sci Cal.pdb
+D:\PF\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csprojResolveAssemblyReference.cache
+D:\PF\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Calculator.resources
+D:\PF\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Properties.Resources.resources
+D:\PF\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csproj.GenerateResource.Cache
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe.config
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\obj\Debug\Sci Cal.exe
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\obj\Debug\Sci Cal.pdb
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\bin\Debug\Sci Cal.exe
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\bin\Debug\Sci Cal.pdb
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csprojResolveAssemblyReference.cache
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Calculator.resources
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\obj\Debug\Sci_Cal.Properties.Resources.resources
+C:\Users\ALI\Desktop\Sci Cal\Sci Cal\obj\Debug\Sci Cal.csproj.GenerateResource.Cache
+D:\1st Semester\PF\Projects\SC\Sci Cal\bin\Debug\Sci Cal.exe.config
+D:\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci Cal.exe
+D:\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci Cal.pdb
+D:\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci Cal.csprojResolveAssemblyReference.cache
+D:\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci_Cal.Calculator.resources
+D:\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci_Cal.Properties.Resources.resources
+D:\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci Cal.csproj.GenerateResource.Cache
+D:\1st Semester\PF\Projects\SC\Sci Cal\bin\Debug\Sci Cal.exe
+D:\1st Semester\PF\Projects\SC\Sci Cal\bin\Debug\Sci Cal.pdb
+E:\Parhaii\1st Semester\PF\Projects\SC\Sci Cal\bin\Debug\Sci Cal.exe.config
+E:\Parhaii\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci Cal.exe
+E:\Parhaii\1st Semester\PF\Projects\SC\Sci Cal\obj\Debug\Sci Cal.pdb
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\bin\Debug\Sci Cal.exe.config
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\bin\Debug\Sci Cal.exe
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\bin\Debug\Sci Cal.pdb
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\obj\Debug\Sci Cal.csprojAssemblyReference.cache
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\obj\Debug\Sci_Cal.Calculator.resources
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\obj\Debug\Sci_Cal.Properties.Resources.resources
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\obj\Debug\Sci Cal.csproj.GenerateResource.cache
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\obj\Debug\Sci Cal.exe
+D:\My Studies\Paf-Kiet University\PAF-KIET(My Data)\1st Semester\PF\Projects\Sci Cal\SC\Sci Cal\obj\Debug\Sci Cal.pdb
